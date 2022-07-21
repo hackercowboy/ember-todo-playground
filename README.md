@@ -1,56 +1,31 @@
-# ember-todo-playground
+<div id="top"></div>
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+[![Language][language-shield]][language-url]
+[![MIT License][license-shield]][license-url]
 
-## Prerequisites
 
-You will need the following things properly installed on your computer.
+<br />
+<div align="center">
+  <a href="https://github.com/hackercowboy/ember-todo-playground">
+    <img src="./playground.jpg" alt="Logo" style="max-width: 400px;">
+  </a>
 
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/) (with npm)
-* [Ember CLI](https://cli.emberjs.com/release/)
-* [Google Chrome](https://google.com/chrome/)
+<h1 align="center">ember-todo-playground</h1>
+  <p align="center">
+    My little ember playground
+  </p>
+</div>
 
-## Installation
+## About
 
-* `git clone <repository-url>` this repository
-* `cd ember-todo-playground`
-* `npm install`
+`ember-todo-playground` is just a small playground i use to test [ember.js](language).
 
-## Running / Development
+## License
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-* Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
+MIT License. See `LICENSE.txt` for more information.
 
-### Code Generators
+[language-shield]: https://img.shields.io/github/languages/top/hackercowboy/ember-todo-playground.svg?style=for-the-badge
+[language-url]: https://github.com/hackercowboy/ember-todo-playground
+[license-shield]: https://img.shields.io/github/license/hackercowboy/ember-todo-playground.svg?style=for-the-badge
+[license-url]: https://github.com/hackercowboy/ember-todo-playground/blob/master/LICENSE.txt
 
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Linting
-
-* `npm run lint`
-* `npm run lint:fix`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](https://emberjs.com/)
-* [ember-cli](https://cli.emberjs.com/release/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)

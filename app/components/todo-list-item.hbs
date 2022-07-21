@@ -1,0 +1,11 @@
+<li class="todo-list-item">
+  <span class="todo-list-item-text {{@todo.status}}">{{@todo.text}}</span>
+  <span class="todo-list-item-action {{@todo.status}}">
+    {{#if (equal @todo.status "pending")}}
+      <button class="update-button" type="button" {{on 'click' (fn this.finish @todo)}}>Done</button>
+    {{/if}}
+    {{#if (equal @todo.status "done")}}
+      <button class="delete-button" type="button" {{on 'click' (fn this.delete @todo)}}>Delete</button>
+    {{/if}}
+  </span>
+</li>
