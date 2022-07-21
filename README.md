@@ -27,5 +27,5 @@ MIT License. See `LICENSE.txt` for more information.
 [language-shield]: https://img.shields.io/github/languages/top/hackercowboy/ember-todo-playground.svg?style=for-the-badge
 [language-url]: https://github.com/hackercowboy/ember-todo-playground
 [license-shield]: https://img.shields.io/github/license/hackercowboy/ember-todo-playground.svg?style=for-the-badge
-[license-url]: https://github.com/hackercowboy/ember-todo-playground/blob/master/LICENSE.txt
+[license-url]: https://github.com/hackercowboy/ember-todo-playground/blob/main/LICENSE.txt
 
